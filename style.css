@@ -296,3 +296,25 @@ form button:hover {
 html {
     scroll-behavior: smooth;
 }
+
+
+/* Opening Hours */
+.opening-hours {
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 25px;
+    background-color: #1a1a1a;
+    border: 1px solid #333;
+    border-radius: 10px;
+}
+
+.opening-hours h3 {
+    color: #d4af37;
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+
+.opening-hours p {
+    color: #aaa;
+    margin: 8px 0;
+}
